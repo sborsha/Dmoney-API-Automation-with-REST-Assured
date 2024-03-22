@@ -1,0 +1,1 @@
+{"uuid":"8e87ad18-619a-42f7-ac0b-a5b6ea9056b8","name":"Money Give from System Account ","children":["30a5d0b3-d6d7-4100-8af9-5708f7217ffb"],"befores":[{"name":"intiConfig","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1711117096850,"stop":1711117096876}],"afters":[],"start":1711117096814,"stop":1711117097296}

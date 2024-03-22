@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Dmoney API Rest Assured Automation">
+    <test name="Admin login automation">
+        <classes>
+            <class name="LoginTestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name="Users Creation Automation">
+        <classes>
+            <class name="UserCreateTestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name="Money Give from System Account ">
+        <classes>
+            <class name="SystemUserTestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name="Deposit to a customer from Agent">
+        <classes>
+            <class name="AgentToCustomerTestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name="Customer Transaction Automation">
+        <classes>
+            <class name="CustomerTransactionTestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name="Payment Automation from Customer 2">
+        <classes>
+            <class name="PaymentTestRunner">
+            </class>
+        </classes>
+    </test>
+</suite>
